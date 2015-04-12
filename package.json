@@ -1,0 +1,27 @@
+{
+  "name": "marionette-checkbox-behavior",
+  "version": "0.1.0",
+  "description": "A Marionette behavior that synchronizes a checkbox with a model field.",
+  "author": {
+    "name": "Rafee Memon",
+    "email": "rafeememon@gmail.com",
+    "url": "https://github.com/rafeememon/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rafeememon/marionette-checkbox-behavior.git"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/rafeememon/marionette-checkbox-behavior/blob/master/LICENSE"
+  },
+  "homepage": "https://github.com/rafeememon/marionette-checkbox-behavior",
+  "main": "./lib/checkbox-behavior.js",
+  "dependencies": {
+    "backbone.marionette": ">=2.0.0"
+  },
+  "files": [
+    "lib",
+    "LICENSE"
+  ]
+}
