@@ -11,11 +11,14 @@
     "type": "git",
     "url": "https://github.com/rafeememon/marionette-checkbox-behavior.git"
   },
-  "license": {
-    "type": "MIT",
-    "url": "https://github.com/rafeememon/marionette-checkbox-behavior/blob/master/LICENSE"
-  },
+  "license": "MIT",
   "homepage": "https://github.com/rafeememon/marionette-checkbox-behavior",
+  "keywords": [
+    "backbone",
+    "marionette",
+    "behavior",
+    "checkbox"
+  ],
   "scripts": {
     "test": "mocha-phantomjs SpecRunner.html"
   },
@@ -31,9 +34,5 @@
     "mocha-phantomjs": "3.5.3",
     "phantomjs": "1.9.16",
     "underscore": "1.6.0"
-  },
-  "files": [
-    "lib",
-    "LICENSE"
-  ]
+  }
 }
