@@ -1,6 +1,8 @@
 marionette-checkbox-behavior
 ============================
 
+[![NPM version](https://img.shields.io/npm/v/marionette-checkbox-behavior.svg)](https://www.npmjs.org/package/marionette-checkbox-behavior)
+![Bower version](https://img.shields.io/bower/v/marionette-checkbox-behavior.svg)
 [![Build Status](https://travis-ci.org/rafeememon/marionette-checkbox-behavior.svg)](https://travis-ci.org/rafeememon/marionette-checkbox-behavior)
 
 ## Description
